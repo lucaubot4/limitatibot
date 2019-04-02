@@ -1,4 +1,6 @@
-Limitati Bot S è un bot Telegram programmato in python 3 che aiuta un utente limitato a comunicare con un altro utente. Il progetto è portato avanti da Davide Leone (leonedavide@protonmail.com).
+!!! Please notice that this source has no correlation, except the name, with t.me/limitatibot. However, it does pretty much the same. This github repository outdated, you can find a much better version here: https://gitlab.com/davideleone/contactme
+
+Limitati Bot è un bot Telegram programmato in python 3 che aiuta un utente limitato a comunicare con un altro utente. Il progetto è portato avanti da Davide Leone (leonedavide@protonmail.com).
 
 Tenendo conto che il secondo utente, che riceve i messaggi ed invia risposte, resta anonimo, questo tipo di bot può essere adottato come strumento comunicativo anche da organizzazioni, fornendo il link del bot per mettersi in contatto con la stessa.
 Può essere anche usato da soggetti che vengono contattati da molte persone, e preferiscono quindi riceverle tutte in una sola chat (quella col bot). 
