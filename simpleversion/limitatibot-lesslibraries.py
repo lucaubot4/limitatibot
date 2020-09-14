@@ -27,13 +27,13 @@ import pickle
 from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton
 
 #-- CONFIG -- Assicurati di compilare tutti i campi prima di avviare il bot
-token = '' #Token del bot ottenuto da t.me/botfather
-amministratore = 0 #ID del proprietario del bot
+token = '1110628200:AAEK2g1cN7FclHrVQTRTGS5jqrBA-6aevWM' #Token del bot ottenuto da t.me/botfather
+amministratore = 862381361 #ID del proprietario del bot
 antiflood_trigger = 6 #Numero massimo di messaggi mandabili nell'arco di 5 secondi
 folder_position = '' #Posizione dei file all'interno del sistema; necessario per funzioni quali il crontab 
 arcbanned = folder_position+'banned.save' #Nome del file che archivia gli utenti bannati
 log_error = folder_position+'log.txt' #Nome del file in cui salvare il registro degli errori
-repository = 'https://github.com/Davide-Leone/limitatibot' #Link al codice sorgente del programma.
+repository = 'https://github.com/darkluke4/limitatibot' #Link al codice sorgente del programma.
 #N.B.: Se si attuano modifiche, eccetto alle configurazioni, è necessario pubblicare un nuovo repository con il nuovo codice sorgente.
 
 #Funzioni del bot
